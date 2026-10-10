@@ -1,0 +1,61 @@
+{
+	"components": [
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable",
+		"usable",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [
+			"981"
+		],
+		"biomes": [],
+		"magic_slots": 0,
+		"resources": [
+			{
+				"amount": 1,
+				"id": "346"
+			}
+		],
+		"time": 10,
+		"tools": []
+	},
+	"description": "A pouch packed with hot embers scooped from smoldering ash. Throw it to scatter burning flames across the ground.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "arendeth_reactive_crafting_Ember_Pouch",
+	"item": {
+		"image": 2,
+		"type": 17
+	},
+	"minimap_pixel": [
+		255,
+		120,
+		40
+	],
+	"name": "Ember Pouch",
+	"usable": {
+		"ability": "arendeth_reactive_crafting_Throw_Ember_Pouch",
+		"recipe": ""
+	},
+	"value": 90,
+	"weight": 0.5
+}

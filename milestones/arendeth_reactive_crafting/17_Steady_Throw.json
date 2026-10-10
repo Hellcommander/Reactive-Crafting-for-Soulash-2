@@ -1,0 +1,16 @@
+{
+	"id": "arendeth_reactive_crafting_steady_throw",
+	"name": "Steady Throw",
+	"requirements": {
+		"milestones": [],
+		"skill": 17
+	},
+	"rewards": [
+		{
+			"passive": "arendeth_reactive_crafting_steady_throw"
+		}
+	],
+	"skill_id": "arendeth_reactive_crafting",
+	"steps": [],
+	"steps_type": 0
+}

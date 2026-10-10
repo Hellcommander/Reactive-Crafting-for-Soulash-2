@@ -1,0 +1,30 @@
+{
+	"graphics": {
+		"tilesheets": [
+			{
+				"name": "skills",
+				"tiles": [
+					1,
+					1
+				],
+				"file": "assets/skills.png"
+			},
+			{
+				"name": "abilities",
+				"tiles": [
+					11,
+					1
+				],
+				"file": "assets/abilities.png"
+			},
+			{
+				"name": "passive_skills",
+				"tiles": [
+					10,
+					1
+				],
+				"file": "assets/passive_skills.png"
+			}
+		]
+	}
+}

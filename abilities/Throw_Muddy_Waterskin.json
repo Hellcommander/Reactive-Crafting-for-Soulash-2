@@ -1,0 +1,27 @@
+{
+	"animation": "core_2_Dust_Bomb_Throw",
+	"cast_time": 0.5,
+	"cooldown": 3.0,
+	"cost": {
+		"health": 0,
+		"stamina": 3
+	},
+	"description": "Hurl a muddy waterskin that bursts into a spreading puddle of muddy water, immediately soaking targets with Wet and leaving slick, slowing terrain for ::duration turns.",
+	"duration": 8.0,
+	"effects": {
+		"aoe_break": 1,
+		"aoe_range": 2,
+		"aoe_shape": 1,
+		"stacker": "88",
+		"summon_count": 6
+	},
+	"effects_keys": {
+		"summon": "411"
+	},
+	"id": "arendeth_reactive_crafting_Throw_Muddy_Waterskin",
+	"image": 0,
+	"name": "Throw Muddy Waterskin",
+	"range": 6,
+	"skill": "arendeth_reactive_crafting",
+	"target": "aoe_tile"
+}

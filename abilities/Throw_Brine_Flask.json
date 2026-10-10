@@ -1,0 +1,32 @@
+{
+	"animation": "core_2_Dust_Bomb_Throw",
+	"cast_time": 0.5,
+	"cooldown": 5.0,
+	"cost": {
+		"health": 0,
+		"stamina": 4
+	},
+	"description": "Hurl a flask of caustic brine that bursts into a stinging cloud of salt, dealing ::damage ::damage_type damage and poisoning targets for ::poison_effect turns.",
+	"duration": 6.0,
+	"effects": {
+		"aoe_break": 1,
+		"aoe_range": 3,
+		"aoe_shape": 1,
+		"damage": [
+			2,
+			4
+		],
+		"damage_type": "poison",
+		"poison_effect": 3,
+		"summon_count": 6
+	},
+	"effects_keys": {
+		"summon": "430"
+	},
+	"id": "arendeth_reactive_crafting_Throw_Brine_Flask",
+	"image": 9,
+	"name": "Throw Brine Flask",
+	"range": 6,
+	"skill": "arendeth_reactive_crafting",
+	"target": "aoe_tile"
+}

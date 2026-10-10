@@ -1,0 +1,16 @@
+{
+	"id": "arendeth_reactive_crafting_efficient_crafting",
+	"name": "Efficient Crafting",
+	"requirements": {
+		"milestones": [],
+		"skill": 7
+	},
+	"rewards": [
+		{
+			"passive": "arendeth_reactive_crafting_efficient_crafting"
+		}
+	],
+	"skill_id": "arendeth_reactive_crafting",
+	"steps": [],
+	"steps_type": 0
+}

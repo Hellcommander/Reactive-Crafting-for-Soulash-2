@@ -1,0 +1,16 @@
+{
+	"id": "arendeth_reactive_crafting_thrifty_hands",
+	"name": "Thrifty Hands",
+	"requirements": {
+		"milestones": [],
+		"skill": 5
+	},
+	"rewards": [
+		{
+			"passive": "arendeth_reactive_crafting_thrifty_hands"
+		}
+	],
+	"skill_id": "arendeth_reactive_crafting",
+	"steps": [],
+	"steps_type": 0
+}

@@ -1,0 +1,28 @@
+{
+	"animation": "core_2_Dust_Bomb_Throw",
+	"cast_time": 0.5,
+	"cooldown": 5.0,
+	"cost": {
+		"health": 0,
+		"stamina": 4
+	},
+	"description": "Hurl a heavy skin of churned mud that bursts into a wide bog: targets are soaked, held fast, and the ground stays treacherous for ::duration turns.",
+	"duration": 10.0,
+	"effects": {
+		"aoe_break": 1,
+		"aoe_range": 3,
+		"aoe_shape": 1,
+		"immobilize": 2,
+		"stacker": "88",
+		"summon_count": 9
+	},
+	"effects_keys": {
+		"summon": "411"
+	},
+	"id": "arendeth_reactive_crafting_Throw_Quagmire_Skin",
+	"image": 7,
+	"name": "Throw Quagmire Skin",
+	"range": 6,
+	"skill": "arendeth_reactive_crafting",
+	"target": "aoe_tile"
+}

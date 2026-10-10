@@ -1,0 +1,16 @@
+{
+	"id": "arendeth_reactive_crafting_practiced_hands",
+	"name": "Practiced Hands",
+	"requirements": {
+		"milestones": [],
+		"skill": 15
+	},
+	"rewards": [
+		{
+			"passive": "arendeth_reactive_crafting_practiced_hands"
+		}
+	],
+	"skill_id": "arendeth_reactive_crafting",
+	"steps": [],
+	"steps_type": 0
+}

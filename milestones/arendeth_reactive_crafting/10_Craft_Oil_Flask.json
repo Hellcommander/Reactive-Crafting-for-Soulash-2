@@ -1,0 +1,16 @@
+{
+	"id": "arendeth_reactive_crafting_Oil_Flask_recipe",
+	"name": "Craft Oil Flask",
+	"requirements": {
+		"milestones": [],
+		"skill": 10
+	},
+	"rewards": [
+		{
+			"recipe": "arendeth_reactive_crafting_Oil_Flask"
+		}
+	],
+	"skill_id": "arendeth_reactive_crafting",
+	"steps": [],
+	"steps_type": 0
+}

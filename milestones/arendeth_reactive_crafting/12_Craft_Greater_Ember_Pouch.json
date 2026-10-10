@@ -1,0 +1,16 @@
+{
+	"id": "arendeth_reactive_crafting_Greater_Ember_Pouch_recipe",
+	"name": "Craft Greater Ember Pouch",
+	"requirements": {
+		"milestones": [],
+		"skill": 12
+	},
+	"rewards": [
+		{
+			"recipe": "arendeth_reactive_crafting_Greater_Ember_Pouch"
+		}
+	],
+	"skill_id": "arendeth_reactive_crafting",
+	"steps": [],
+	"steps_type": 0
+}

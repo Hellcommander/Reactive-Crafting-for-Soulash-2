@@ -1,0 +1,63 @@
+{
+	"components": [
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable",
+		"usable",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [
+			"430",
+			"625",
+			"833"
+		],
+		"biomes": [],
+		"magic_slots": 0,
+		"resources": [
+			{
+				"amount": 1,
+				"id": "346"
+			}
+		],
+		"time": 10,
+		"tools": []
+	},
+	"description": "A waterskin emptied and packed with loose sand. Throw it to burst a blinding cloud and scatter treacherous sand across the ground.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 1
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "arendeth_reactive_crafting_Sand_Pouch",
+	"item": {
+		"image": 1,
+		"type": 17
+	},
+	"minimap_pixel": [
+		194,
+		178,
+		128
+	],
+	"name": "Sand Pouch",
+	"usable": {
+		"ability": "arendeth_reactive_crafting_Throw_Sand_Pouch",
+		"recipe": ""
+	},
+	"value": 80,
+	"weight": 0.5
+}

@@ -1,0 +1,65 @@
+{
+	"components": [
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable",
+		"usable",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [
+			"2015"
+		],
+		"biomes": [],
+		"magic_slots": 0,
+		"resources": [
+			{
+				"amount": 1,
+				"id": "346"
+			},
+			{
+				"amount": 2,
+				"id": "core_2_Transmutation_Oil"
+			}
+		],
+		"time": 15,
+		"tools": []
+	},
+	"description": "Cobwebs, oil, embers and a prayer, all bundled together. Throw it to bind enemies in webs that explode into flame.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					170,
+					90
+				],
+				"delay": 0,
+				"index": 4
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "arendeth_reactive_crafting_Volatile_Bundle",
+	"item": {
+		"image": 4,
+		"type": 17
+	},
+	"minimap_pixel": [
+		230,
+		120,
+		40
+	],
+	"name": "Volatile Bundle",
+	"usable": {
+		"ability": "arendeth_reactive_crafting_Throw_Volatile_Bundle",
+		"recipe": ""
+	},
+	"value": 260,
+	"weight": 0.8
+}

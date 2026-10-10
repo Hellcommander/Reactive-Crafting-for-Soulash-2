@@ -1,0 +1,29 @@
+{
+	"animation": "core_2_Dust_Bomb_Throw",
+	"cast_time": 0.5,
+	"cooldown": 5.0,
+	"cost": {
+		"health": 0,
+		"stamina": 4
+	},
+	"description": "Hurl a pouch of packed ice that bursts into a deep freeze, stacking Freeze on everything caught and blanketing a wide area in slippery snow for ::duration turns.",
+	"duration": 8.0,
+	"effects": {
+		"aoe_break": 1,
+		"aoe_range": 3,
+		"aoe_shape": 1,
+		"frostbite": 1,
+		"stacker": "124",
+		"stacker_count": 3,
+		"summon_count": 9
+	},
+	"effects_keys": {
+		"summon": "917"
+	},
+	"id": "arendeth_reactive_crafting_Throw_Glacial_Pouch",
+	"image": 8,
+	"name": "Throw Glacial Pouch",
+	"range": 6,
+	"skill": "arendeth_reactive_crafting",
+	"target": "aoe_tile"
+}

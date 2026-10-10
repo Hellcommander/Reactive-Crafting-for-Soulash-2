@@ -1,0 +1,33 @@
+{
+	"animation": "core_2_Dust_Bomb_Throw",
+	"cast_time": 0.5,
+	"cooldown": 20.0,
+	"cost": {
+		"health": 0,
+		"stamina": 8
+	},
+	"description": "Hurl a bundle of everything the ground taught you: it bursts into sticky cobwebs and a blast of flame in a wide area, dealing ::damage ::damage_type damage, burning targets for ::burn turns and binding them in the burning webs.",
+	"duration": 6.0,
+	"effects": {
+		"aoe_break": 1,
+		"aoe_range": 3,
+		"aoe_shape": 1,
+		"burn": 4,
+		"damage": [
+			6,
+			12
+		],
+		"damage_type": "fire",
+		"immobilize": 1,
+		"summon_count": 8
+	},
+	"effects_keys": {
+		"summon": "1066"
+	},
+	"id": "arendeth_reactive_crafting_Throw_Volatile_Bundle",
+	"image": 10,
+	"name": "Throw Volatile Bundle",
+	"range": 6,
+	"skill": "arendeth_reactive_crafting",
+	"target": "aoe_tile"
+}

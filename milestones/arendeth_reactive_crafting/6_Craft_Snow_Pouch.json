@@ -1,0 +1,16 @@
+{
+	"id": "arendeth_reactive_crafting_Snow_Pouch_recipe",
+	"name": "Craft Snow Pouch",
+	"requirements": {
+		"milestones": [],
+		"skill": 6
+	},
+	"rewards": [
+		{
+			"recipe": "arendeth_reactive_crafting_Snow_Pouch"
+		}
+	],
+	"skill_id": "arendeth_reactive_crafting",
+	"steps": [],
+	"steps_type": 0
+}

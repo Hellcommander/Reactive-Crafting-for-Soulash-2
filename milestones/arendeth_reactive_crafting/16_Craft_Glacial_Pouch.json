@@ -1,0 +1,16 @@
+{
+	"id": "arendeth_reactive_crafting_Glacial_Pouch_recipe",
+	"name": "Craft Glacial Pouch",
+	"requirements": {
+		"milestones": [],
+		"skill": 16
+	},
+	"rewards": [
+		{
+			"recipe": "arendeth_reactive_crafting_Glacial_Pouch"
+		}
+	],
+	"skill_id": "arendeth_reactive_crafting",
+	"steps": [],
+	"steps_type": 0
+}

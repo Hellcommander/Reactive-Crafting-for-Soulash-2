@@ -1,0 +1,65 @@
+{
+	"components": [
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable",
+		"usable",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [
+			"981"
+		],
+		"biomes": [],
+		"magic_slots": 0,
+		"resources": [
+			{
+				"amount": 1,
+				"id": "346"
+			},
+			{
+				"amount": 1,
+				"id": "core_2_Transmutation_Oil"
+			}
+		],
+		"time": 15,
+		"tools": []
+	},
+	"description": "A pouch of ash and transmutation oil packed around white-hot embers. Throw it to scatter a wide field of burning flames.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					200,
+					150
+				],
+				"delay": 0,
+				"index": 2
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "arendeth_reactive_crafting_Greater_Ember_Pouch",
+	"item": {
+		"image": 2,
+		"type": 17
+	},
+	"minimap_pixel": [
+		255,
+		90,
+		30
+	],
+	"name": "Greater Ember Pouch",
+	"usable": {
+		"ability": "arendeth_reactive_crafting_Throw_Greater_Ember_Pouch",
+		"recipe": ""
+	},
+	"value": 160,
+	"weight": 0.6
+}

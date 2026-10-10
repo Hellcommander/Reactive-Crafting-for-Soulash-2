@@ -1,0 +1,63 @@
+{
+	"components": [
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable",
+		"usable",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [
+			"3068",
+			"411",
+			"2015"
+		],
+		"biomes": [],
+		"magic_slots": 0,
+		"resources": [
+			{
+				"amount": 2,
+				"id": "346"
+			}
+		],
+		"time": 15,
+		"tools": []
+	},
+	"description": "A heavy skin stuffed with the thickest mud you could dig. Throw it to burst a wide bog that soaks and pins anything inside.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					200,
+					170,
+					140
+				],
+				"delay": 0,
+				"index": 0
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "arendeth_reactive_crafting_Quagmire_Skin",
+	"item": {
+		"image": 0,
+		"type": 17
+	},
+	"minimap_pixel": [
+		110,
+		70,
+		30
+	],
+	"name": "Quagmire Skin",
+	"usable": {
+		"ability": "arendeth_reactive_crafting_Throw_Quagmire_Skin",
+		"recipe": ""
+	},
+	"value": 150,
+	"weight": 0.9
+}
