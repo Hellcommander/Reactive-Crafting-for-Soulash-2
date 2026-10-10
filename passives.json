@@ -40,18 +40,6 @@
 		"description": "Crafting yields extra units."
 	},
 	{
-		"id": "arendeth_reactive_crafting_terrain_reader",
-		"name": "Terrain Reader",
-		"image": 3,
-		"effects": [
-			{
-				"effect": "sight",
-				"value": 2
-			}
-		],
-		"description": "You read the ground ahead: +2 sight."
-	},
-	{
 		"id": "arendeth_reactive_crafting_pack_mule",
 		"name": "Pack Mule",
 		"image": 4,
