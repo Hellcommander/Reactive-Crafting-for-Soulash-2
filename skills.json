@@ -3,11 +3,19 @@
 		"id": "arendeth_reactive_crafting",
 		"name": "Reactive Crafting",
 		"image": 0,
-		"description": "A utility skill of terrain-reactive craftable throwables. Learn to craft muddy waterskins, sand pouches, salt sacks, snow pouches, ember pouches and oil flasks from the ground you stand on, then improved versions and the Volatile Bundle.\n\nTrain by throwing what you craft.\n\nLevels 1-10 grant no statistics. Every level from 11 to 20 grants +1 statistic.\n\nLevel 20 grants Reactive Crafting Mastery (+5% all attributes).",
+		"description": "A utility skill of terrain-reactive craftable throwables. Learn to craft muddy waterskins, sand pouches, salt sacks, snow pouches, ember pouches and oil flasks from the ground you stand on, then improved versions and the Volatile Bundle.\n\nTrain by crafting and throwing what you make.\n\nYou start at level 10. To go further, study a Reactive Crafting Manual: you can build one from a Book and a Muddy Waterskin once you reach level 10, and each one raises your potential.\n\nLevels 1-10 grant no statistics. Every level from 11 to 20 grants +1 statistic.\n\nLevel 20 grants Reactive Crafting Mastery (+5% all attributes).",
 		"combat_skill": false,
 		"exp_sources": [
 			{
 				"id": "ability",
+				"rate": 2
+			},
+			{
+				"id": "craft",
+				"rate": 1
+			},
+			{
+				"id": "throw",
 				"rate": 2
 			}
 		],

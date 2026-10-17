@@ -1,6 +1,6 @@
 {
 	"author": "Arendeth",
-	"description": "Adds Reactive Crafting, a 20-level utility skill. Level up to unlock the recipes for terrain-reactive craftable throwables (muddy waterskins, sand pouches, salt sacks, snow pouches, ember pouches, oil flasks), improved versions, and the Volatile Bundle. No statistics for levels 1-10.",
+	"description": "Adds Reactive Crafting, a 20-level utility skill. Level up to unlock the recipes for terrain-reactive craftable throwables (muddy waterskins, sand pouches, salt sacks, snow pouches, ember pouches, oil flasks), improved versions, and the Volatile Bundle. Build Reactive Crafting Manuals to raise your potential past level 10. No statistics for levels 1-10.",
 	"game_required": "0.10.0",
 	"icon": "icon.png",
 	"mods_required": [
@@ -8,5 +8,5 @@
 	],
 	"name": "Reactive Crafting",
 	"thumbnail": "thumbnail2.png",
-	"version": "0.6.0"
+	"version": "0.7.0"
 }

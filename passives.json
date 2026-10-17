@@ -42,7 +42,7 @@
 	{
 		"id": "arendeth_reactive_crafting_pack_mule",
 		"name": "Pack Mule",
-		"image": 4,
+		"image": 3,
 		"effects": [
 			{
 				"effect": "carry_capacity",
@@ -54,7 +54,7 @@
 	{
 		"id": "arendeth_reactive_crafting_resourceful",
 		"name": "Resourceful",
-		"image": 5,
+		"image": 4,
 		"effects": [
 			{
 				"effect": "extra_loot",
@@ -66,7 +66,7 @@
 	{
 		"id": "arendeth_reactive_crafting_practiced_hands",
 		"name": "Practiced Hands",
-		"image": 6,
+		"image": 5,
 		"effects": [
 			{
 				"effect": "bonus_crafting_unit",
@@ -78,7 +78,7 @@
 	{
 		"id": "arendeth_reactive_crafting_steady_throw",
 		"name": "Steady Throw",
-		"image": 7,
+		"image": 6,
 		"effects": [
 			{
 				"effect": "hit_bonus",
@@ -90,7 +90,7 @@
 	{
 		"id": "arendeth_reactive_crafting_deep_pockets",
 		"name": "Deep Pockets",
-		"image": 8,
+		"image": 7,
 		"effects": [
 			{
 				"effect": "extra_backpack_slots",
@@ -102,7 +102,7 @@
 	{
 		"id": "arendeth_reactive_crafting_mastery",
 		"name": "Reactive Crafting Mastery",
-		"image": 9,
+		"image": 8,
 		"effects": [
 			{
 				"effect": "statistic_percent",

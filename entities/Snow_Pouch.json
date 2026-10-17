@@ -37,14 +37,14 @@
 					255
 				],
 				"delay": 0,
-				"index": 3
+				"index": 10
 			}
 		],
 		"random_frame_start": false
 	},
 	"id": "arendeth_reactive_crafting_Snow_Pouch",
 	"item": {
-		"image": 3,
+		"image": 10,
 		"type": 17
 	},
 	"minimap_pixel": [

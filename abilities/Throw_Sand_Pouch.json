@@ -1,5 +1,5 @@
 {
-	"animation": "core_2_Dust_Bomb_Throw",
+	"animation": "arendeth_reactive_crafting_throw_sand_pouch_fx",
 	"cast_time": 0.5,
 	"cooldown": 4.0,
 	"cost": {
@@ -19,7 +19,7 @@
 		"summon": "430"
 	},
 	"id": "arendeth_reactive_crafting_Throw_Sand_Pouch",
-	"image": 1,
+	"image": 8,
 	"name": "Throw Sand Pouch",
 	"range": 6,
 	"skill": "arendeth_reactive_crafting",

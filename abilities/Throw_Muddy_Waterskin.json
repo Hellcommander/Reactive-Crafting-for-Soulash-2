@@ -1,5 +1,5 @@
 {
-	"animation": "core_2_Dust_Bomb_Throw",
+	"animation": "arendeth_reactive_crafting_throw_muddy_waterskin_fx",
 	"cast_time": 0.5,
 	"cooldown": 3.0,
 	"cost": {
@@ -19,7 +19,7 @@
 		"summon": "411"
 	},
 	"id": "arendeth_reactive_crafting_Throw_Muddy_Waterskin",
-	"image": 0,
+	"image": 4,
 	"name": "Throw Muddy Waterskin",
 	"range": 6,
 	"skill": "arendeth_reactive_crafting",

@@ -32,19 +32,19 @@
 		"frames": [
 			{
 				"color": [
-					170,
-					210,
+					255,
+					255,
 					255
 				],
 				"delay": 0,
-				"index": 3
+				"index": 2
 			}
 		],
 		"random_frame_start": false
 	},
 	"id": "arendeth_reactive_crafting_Glacial_Pouch",
 	"item": {
-		"image": 3,
+		"image": 2,
 		"type": 17
 	},
 	"minimap_pixel": [

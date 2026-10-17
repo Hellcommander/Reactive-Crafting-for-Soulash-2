@@ -1,5 +1,5 @@
 {
-	"animation": "core_2_Dust_Bomb_Throw",
+	"animation": "arendeth_reactive_crafting_throw_snow_pouch_fx",
 	"cast_time": 0.5,
 	"cooldown": 5.0,
 	"cost": {
@@ -19,7 +19,7 @@
 		"summon": "917"
 	},
 	"id": "arendeth_reactive_crafting_Throw_Snow_Pouch",
-	"image": 3,
+	"image": 9,
 	"name": "Throw Snow Pouch",
 	"range": 6,
 	"skill": "arendeth_reactive_crafting",

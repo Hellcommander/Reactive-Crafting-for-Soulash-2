@@ -1,5 +1,5 @@
 {
-	"animation": "core_2_Dust_Bomb_Throw",
+	"animation": "arendeth_reactive_crafting_throw_glacial_pouch_fx",
 	"cast_time": 0.5,
 	"cooldown": 5.0,
 	"cost": {
@@ -21,7 +21,7 @@
 		"summon": "917"
 	},
 	"id": "arendeth_reactive_crafting_Throw_Glacial_Pouch",
-	"image": 8,
+	"image": 2,
 	"name": "Throw Glacial Pouch",
 	"range": 6,
 	"skill": "arendeth_reactive_crafting",

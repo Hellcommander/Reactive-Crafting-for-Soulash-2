@@ -1,5 +1,5 @@
 {
-	"animation": "core_2_Dust_Bomb_Throw",
+	"animation": "arendeth_reactive_crafting_throw_greater_ember_pouch_fx",
 	"cast_time": 0.5,
 	"cooldown": 6.0,
 	"cost": {
@@ -24,7 +24,7 @@
 		"summon": "561"
 	},
 	"id": "arendeth_reactive_crafting_Throw_Greater_Ember_Pouch",
-	"image": 6,
+	"image": 3,
 	"name": "Throw Greater Ember Pouch",
 	"range": 6,
 	"skill": "arendeth_reactive_crafting",

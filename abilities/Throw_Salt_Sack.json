@@ -1,5 +1,5 @@
 {
-	"animation": "core_2_Dust_Bomb_Throw",
+	"animation": "arendeth_reactive_crafting_throw_salt_sack_fx",
 	"cast_time": 0.5,
 	"cooldown": 4.0,
 	"cost": {
@@ -18,7 +18,7 @@
 		"summon": "430"
 	},
 	"id": "arendeth_reactive_crafting_Throw_Salt_Sack",
-	"image": 5,
+	"image": 7,
 	"name": "Throw Salt Sack",
 	"range": 6,
 	"skill": "arendeth_reactive_crafting",
